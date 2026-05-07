@@ -30,7 +30,7 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://forms.cloud.microsoft/r/X7T8tmMpjP).
 
-[**Recording - 1:33:29**](https://play.library.utoronto.ca/watch/a4c67af3b50ec8e5670261b6ce40606c)
+[**Recording - 1:33:30**](https://play.library.utoronto.ca/watch/a4c67af3b50ec8e5670261b6ce40606c)
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/a4c67af3b50ec8e5670261b6ce40606c" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
