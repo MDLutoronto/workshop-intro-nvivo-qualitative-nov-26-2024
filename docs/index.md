@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of an introductory workshop on NVivo 14/15 for Mac."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
 created_date: 2025-01-28
 ---
 
@@ -28,7 +28,7 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 **How:** This is a 2.5-hour online workshop (but a shorter recording time due to activity breaks), consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
 
-UofT Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://forms.cloud.microsoft/r/X7T8tmMpjP).
+U of T Libraries provides a free license for NVivo. To obtain a license key, fill out our [request form](https://forms.cloud.microsoft/r/X7T8tmMpjP).
 
 [**Recording - 1:33:30**](https://play.library.utoronto.ca/watch/a4c67af3b50ec8e5670261b6ce40606c)
 
