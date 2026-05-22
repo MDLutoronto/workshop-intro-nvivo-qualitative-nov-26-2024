@@ -1,7 +1,7 @@
 ---
-title: "Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Mac Version) (Feb. 3, 2025)"
+title: "Workshop Recording: Introduction to Using NVivo 15 for Qualitative Data Analysis (Mac Version) (Feb. 3, 2025)"
 layout: "home"
-description: "This page provides a video recording of an introductory workshop on NVivo 14/15 for Mac."
+description: "This page provides a video recording of an introductory workshop on NVivo 15 for Mac."
 permalink: "/"  #! Remove this if not the homepage
 staff:
     - name: Kelly Schultz
@@ -12,9 +12,9 @@ maintainer:
 created_date: 2025-01-28
 ---
 
-# Workshop Recording: Introduction to Using NVivo 14/15 for Qualitative Data Analysis (Mac Version) (Feb. 3, 2025)
+# Workshop Recording: Introduction to Using NVivo 15 for Qualitative Data Analysis (Mac Version) (Feb. 3, 2025)
 
-This page provides a video recording of an introductory workshop on NVivo 14/15 for Mac.
+This page provides a video recording of an introductory workshop on NVivo 15 for Mac.
 
 **Workshop Description:**
 
@@ -22,9 +22,9 @@ This page provides a video recording of an introductory workshop on NVivo 14/15 
 
 **Why:** Learning qualitative data analysis skills and tools will help you organize and participate in qualitative research projects, gain insights into your data, communicate your findings, and stand out in the job market.
 
-**Software:** Faculty, staff, and students at the University of Toronto can get a free license key for NVivo. *Note*: Either version (NVivo 14 or 15) can be used for this workshop; however, NVivo works differently on Macs vs Windows. If you are running NVivo on Windows, you should watch the [Introduction to NVivo 14/15 (Windows Version) workshop recording](https://mdlutoronto.github.io/workshop-intro-nvivo-qualitative-nov-12-2024/) instead.
+**Software:** Faculty, staff, and students at the University of Toronto can get a free license key for NVivo. *Note*: NVivo works differently on Macs vs Windows. If you are running NVivo on Windows, you should watch the [Introduction to NVivo 15 (Windows Version) workshop recording](https://mdlutoronto.github.io/workshop-intro-nvivo-qualitative-nov-12-2024/) instead.
 
-**Who:** This workshop is designed for those new to NVivo 14/15. Skills gained can help participants working with qualitative data from any discipline: Humanities, Social Sciences, or Sciences. There are no prerequisites or assumptions of knowledge of statistics or programming.
+**Who:** This workshop is designed for those new to NVivo 15. Skills gained can help participants working with qualitative data from any discipline: Humanities, Social Sciences, or Sciences. There are no prerequisites or assumptions of knowledge of statistics or programming.
 
 **How:** This is a 2.5-hour online workshop (but a shorter recording time due to activity breaks), consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities.
 
