@@ -2,7 +2,7 @@
 title: "Workshop Recording: Introduction to Using NVivo 15 for Qualitative Data Analysis (Mac Version) (Feb. 3, 2025)"
 layout: "home"
 description: "This page provides a video recording of an introductory workshop on NVivo 15 for Mac."
-permalink: "/"  #! Remove this if not the homepage
+permalink: "/workshop-intro-nvivo-mac-recording/"  #! Remove this if not the homepage
 staff:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
